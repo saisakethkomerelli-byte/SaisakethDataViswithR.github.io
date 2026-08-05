@@ -13,4 +13,8 @@ Steps drawing this data visualisation:
 <img width="4284" height="5712" alt="IMG_2857" src="https://github.com/user-attachments/assets/d1613fd5-18ca-414c-8eb2-de798291ac26" />
 <img width="4284" height="5712" alt="IMG_2858" src="https://github.com/user-attachments/assets/5ace936e-3073-4968-b188-413cb1ab3da8" />
 <img width="4284" height="5712" alt="IMG_2859" src="https://github.com/user-attachments/assets/32dcf9f2-33ba-4bf3-9563-26f89dc5d924" />
+Personal Reflection: 
+The most interesting part of this data visualisation was how it was a pie chart that was designed to compare two different populations. It is something unique and I haven't seen before so it really caught my eye. What I did well in this task was accurately replicating the original data visualisation. I was able to seperate the portions accuratley, drawed straight lines and the size of each portion looks accurate when compared to the next portion. For example 5% looks a little bit bigger then 4.5% which is how it should be. Whilst I did well there I definetley could've improved on the part showing the divide in the white population where the 4% looks almost as big as the 13%. So there was some inconsitency in my drawing and that is something I need to look at for the next time I do a similar task. Another aspect I need to be better on is my use of colour. Something I noticed after taking the photo was that the colour red and brown were too similar and if this was to be a real data visualstion released for the public it would be too hard to differentiate between the two categories being represented.
 
+Bibliography:
+Du Bois, W. E. B. (1900),Occupations of Negroes and Whites in Georgia, [Data Visualisation], datylon, https://www.datylon.com/blog/data-visualization-top-10-of-all-time. 
