@@ -1,5 +1,6 @@
 
-# Replication of Data Visualisation showing the "Occupations of Negroes and Whites in Georgia".
+# Replication of Data Visualisation showing the "Occupations of Negroes and Whites in Georgia". 
+5/08/2026
 <img width="1294" height="1838" alt="image" src="https://github.com/user-attachments/assets/6a356791-6932-4a0e-8305-37a13d8f3f61" />
 This data visualisation is an unorthodox take on a pie chart where it shows the divide of occupations of two different variables in the same data visualisation. This is different to a regular pie chart as it would focus on just the single variable wheras this data visualisation is comparing two different populations.
 
