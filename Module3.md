@@ -1,6 +1,8 @@
 
 24/08/2026
 
+#Verify It!
+
 
 Summary of Exercise:
 The objective of this exercise was to be able to track down original data sources of data visualisations and verify whether they are trustworthy or not. We also aim to analyse the variables of the data and discuss whether or not the question being asked is answered appropriately with the data visualisation presented. Then we see whether or not the data sources are reputable or not and what factors into that thought process.
