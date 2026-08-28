@@ -1,7 +1,7 @@
 
 24/08/2026
 
-#Verify It!
+Verify It!
 
 
 Summary of Exercise:
