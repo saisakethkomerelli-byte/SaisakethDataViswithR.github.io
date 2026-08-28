@@ -1,3 +1,7 @@
+Summary of Exercise:
+The objective of this exercise was to be able to track down original data sources of data visualisations and verify whether they are trustworthy or not. We also aim to analyse the variables of the data and discuss whether or not the question being asked is answered appropriately with the data visualisation presented. Then we see whether or not the data sources are reputable or not and what factors into that thought process.
+
+
 
 <img width="746" height="710" alt="image" src="https://github.com/user-attachments/assets/94152dd3-64f4-42ce-b592-d4c9c6d719e2" />
 1. Use the source information included in your chosen data visualisation by HowMuch.net to track down the original data source or sources. You need to track down the exact data, including the correct time period. This might be challenging because HowMuch.net does not provide detailed source information. If you cannot find the source, try to find an equivalent source.
