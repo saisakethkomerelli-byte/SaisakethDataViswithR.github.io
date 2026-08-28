@@ -1,4 +1,4 @@
-Use the source information included in your chosen data visualisation by HowMuch.net to track down the original data source or sources. You need to track down the exact data, including the correct time period. This might be challenging because HowMuch.net does not provide detailed source information. If you cannot find the source, try to find an equivalent source. 
+1. Use the source information included in your chosen data visualisation by HowMuch.net to track down the original data source or sources. You need to track down the exact data, including the correct time period. This might be challenging because HowMuch.net does not provide detailed source information. If you cannot find the source, try to find an equivalent source. 
 <img width="746" height="710" alt="image" src="https://github.com/user-attachments/assets/94152dd3-64f4-42ce-b592-d4c9c6d719e2" />
 
 I was able to locate the original data source. https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm. I was able to find the data source as it was mentioned in the data visualisation and was able to go from there. 
@@ -7,7 +7,7 @@ I was able to locate the original data source. https://www.bls.gov/opub/reports/
 
  
 
-Create an APA-style reference to the data source or sources. Follow the guide here: Reference examplesLinks to an external site.. Write out this reference in your Word doc. 
+2. Create an APA-style reference to the data source or sources. Follow the guide here: Reference examplesLinks to an external site.. Write out this reference in your Word doc. 
 
  
 
@@ -17,7 +17,7 @@ U.S. Bureau of Labor Statistics. (2019, April). Consumer expenditures in 2017 (R
 
  
 
-iii. List the variables visually encoded in the original. For each variable, explain the unit and level of measurement (see Module 3 - Data: Types of variables and levels of measurement). 
+3.  List the variables visually encoded in the original. For each variable, explain the unit and level of measurement (see Module 3 - Data: Types of variables and levels of measurement). 
 
 I found 3 variables in the data visualisation I picked.  They are the expenditure category, average annual expenditure and the percentage of total expenditure.   
 
@@ -29,7 +29,7 @@ The percentage of total expenditure is a quantitative continuous variable. The m
 
  
 
-List the variables visually encoded in the original. For each variable, explain the unit and level of measurement (see Module 3 - Data: Types of variables and levels of measurement). 
+4. List the variables visually encoded in the original. For each variable, explain the unit and level of measurement (see Module 3 - Data: Types of variables and levels of measurement). 
 
  
 
@@ -43,7 +43,7 @@ The percentage of total expenditure is a quantitative continuous variable. The m
 
  
 
-Briefly discuss the alignment of the data (D) and the question (Q) posed by the original (see Junk Charts Trifecta Checkup: The Definitive GuideLinks to an external site.). Is there strong alignment, or does the data or question need better alignment? 
+5. Briefly discuss the alignment of the data (D) and the question (Q) posed by the original (see Junk Charts Trifecta Checkup: The Definitive GuideLinks to an external site.). Is there strong alignment, or does the data or question need better alignment? 
 
  
 
@@ -51,7 +51,7 @@ The original question being asked is “How does the average American household 
 
  
 
-Verify the source data with the visually encoded values or data tables reported on HowMuch.net. You can create a table/spreadsheet to help with verification (save this in your Word doc or as an Excel spreadsheet in your OneDrive folder). Discuss the accuracy of the original visualisation. Were you able to verify all the values with the source? Did you find discrepancies? Were the discrepancies minor (e.g. possible rounding) or more serious (e.g. errors)? Could the discrepancies be explained? (E.g. source data were later corrected or changed post-publication). How confident are you in the data accuracy of the original data visualisation after verification? 
+6. Verify the source data with the visually encoded values or data tables reported on HowMuch.net. You can create a table/spreadsheet to help with verification (save this in your Word doc or as an Excel spreadsheet in your OneDrive folder). Discuss the accuracy of the original visualisation. Were you able to verify all the values with the source? Did you find discrepancies? Were the discrepancies minor (e.g. possible rounding) or more serious (e.g. errors)? Could the discrepancies be explained? (E.g. source data were later corrected or changed post-publication). How confident are you in the data accuracy of the original data visualisation after verification? 
 
  
 
